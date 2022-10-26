@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**KIRTIKUMARKK21/KIRTIKUMARKK21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![@lucifer223's Holopin board](https://holopin.me/lucifer223)](https://holopin.io/@lucifer223)
 Here are some ideas to get you started:
 
