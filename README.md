@@ -1,6 +1,6 @@
 
 
-![](https://cp-logo.vercel.app/codechef/Kirti)<br><br>
+![](https://cp-logo.vercel.app/codechef/lucifer223)<br><br>
 ![](https://codeforces-readme-stats.vercel.app/api/badge?username=kirti21) <!-- codeforces --><br>
 
 
