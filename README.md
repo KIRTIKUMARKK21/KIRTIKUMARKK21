@@ -1,9 +1,8 @@
 
 
 ![](https://cp-logo.vercel.app/codechef/lucifer223)<br><br>
-![](https://codeforces-readme-stats.vercel.app/api/badge?username=lucifer223) <!-- codeforces --><br>
+![](https://codeforces-readme-stats.vercel.app/api/badge?username=kirti21) <!-- codeforces --><br>
 
-<img src="https://atrating.baoshuo.dev/rating?username=NishuSharma"> <!-- atcoder -->
 
 <h1 align="center" >Hi there👋, I'm  Kirti Kumar</h1>
 
