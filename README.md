@@ -1,7 +1,9 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
+![](https://cp-logo.vercel.app/codechef/lucifer223)<br><br>
+![](https://codeforces-readme-stats.vercel.app/api/badge?username=lucifer223) <!-- codeforces --><br>
 
+<img src="https://atrating.baoshuo.dev/rating?username=NishuSharma"> <!-- atcoder -->
 
 <h1 align="center" >Hi there👋, I'm  Kirti Kumar</h1>
 
